@@ -1,0 +1,28 @@
+[
+    {
+      "value": "",
+      "label": "All Rate"
+    },
+    {
+      "value": "PG-13",
+      "label": "PG-13"
+    },
+    {
+      "value": "R",
+      "label": "R"
+    },
+    {
+      "value": "TV-MA",
+      "label": "TV-MA"
+    },
+    {
+      "value": "TV-14",
+      "label": "TV-14"
+    },
+    {
+      "value": "N/A",
+      "label": "N/A"
+    }
+   
+  ]
+  
